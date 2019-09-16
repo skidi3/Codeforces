@@ -11,5 +11,5 @@ int main()
         }
         s++;
     }
-    return sum;
+    return s;
 }
